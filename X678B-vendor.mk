@@ -1544,7 +1544,7 @@ PRODUCT_PACKAGES += \
     vendor_lib64_libcameracustom_plugin_so \
     vendor_lib64_libcameracustom_so \
     vendor_lib64_libcolorenhance_64_so \
-    vendor_lib64_mt6789_libcolorlevel_so \
+    vendor_lib64_libcolorlevel_so \
     vendor_lib64_libdenoise_so \
     vendor_lib64_libdip_drv_so \
     vendor_lib64_libdip_postproc_so \

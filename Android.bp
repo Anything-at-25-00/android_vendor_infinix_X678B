@@ -29390,9 +29390,9 @@ install_symlink {
 }
 
 install_symlink {
-    name: "vendor_lib64_mt6789_libcolorlevel_so",
+    name: "vendor_lib64_libcolorlevel_so",
     soc_specific: true,
-    installed_location: "lib64/mt6789/libcolorlevel.so",
+    installed_location: "lib64/libcolorlevel.so",
     symlink_target: "/vendor/lib64/mt6789/libcolorlevel.so",
 }
 
